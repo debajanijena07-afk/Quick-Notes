@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+}
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+#noteInput {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+#addNoteBtn {
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+.note-item {
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+}
+
+.delete-btn {
+    padding: 5px 10px;
+    cursor: pointer;
+}
